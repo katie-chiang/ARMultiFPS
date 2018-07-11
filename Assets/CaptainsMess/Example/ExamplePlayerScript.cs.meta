@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f34edface32694e93a81afa37b574864
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - image: {instanceID: 0}
+  - nameField: {instanceID: 0}
+  - readyField: {instanceID: 0}
+  - rollResultField: {instanceID: 0}
+  - totalPointsField: {instanceID: 0}
+  - playerCube: {fileID: 1009485546145384, guid: d01f25958c1034372ae73ffe5aef898a,
+      type: 2}
+  - spherePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
